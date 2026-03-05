@@ -1,0 +1,1 @@
+import{c as s,a as t,t as r,h as n,ai as l,o as u}from"./w30uGuq7.js";const i={__name:"[id]",setup(p){const a=l(),o=n(()=>a.params.id);return(c,e)=>(u(),s("div",null,[e[0]||(e[0]=t("h1",null,"订单详情",-1)),t("p",null,"订单号: "+r(o.value),1)]))}};export{i as default};
